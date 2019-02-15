@@ -1,0 +1,30 @@
+html,
+body{
+    background-image: url("images/cookiemonster.jpg");
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.body{
+    border: 10px #fff solid;
+    background-color: #fff;
+}
+.title{
+    text-align: right;
+    background-color: #A8F0F0;
+}
+.info-title{
+}
+.content{
+    border: 4px #C2E9E9  solid;
+    background-color:  #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+    min-height: 250px;
+}
+.date{
+    border-bottom: 2px #009097 dotted;
+}
+.img{
+    float: right;
+    width: 255px;
+}
